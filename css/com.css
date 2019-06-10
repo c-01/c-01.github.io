@@ -1,0 +1,9 @@
+body {
+    background: #ddd;
+}
+
+#img-main img {
+    width: 300px;
+    height: auto;
+    
+}
